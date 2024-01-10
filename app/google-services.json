@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904555362841",
+    "project_id": "ticketbooking-ccfcf",
+    "storage_bucket": "ticketbooking-ccfcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904555362841:android:6271e83815abce57b38888",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIVVenyJ8rK2BvVpKfFBW_E7KtPSWB6e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
